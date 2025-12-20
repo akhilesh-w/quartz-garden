@@ -1,0 +1,1 @@
+Moral absolutism is a [[philosophy]] that asserts that every action can ultimately be classified as right or wrong. It seems appealing on a very superficial level but the world just doesn’t work like that.
