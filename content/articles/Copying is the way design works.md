@@ -3,7 +3,6 @@ title: "Copying is the way design works"
 source: "https://mattstromawn.com/writing/copying/?ref=hiran.in"
 author:
   - "[[Matt Ström-Awn]]"
-published:
 created: 2025-12-21
 description: "What exists in the space between riffing and ripping"
 tags:
